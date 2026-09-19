@@ -1,0 +1,20 @@
+# U.A. High School
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/605905cd-e8c9-4dbb-a54e-d20d79139971" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/96560db4-209b-4c12-a402-b643a47948ea" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/c9d27e1a-474e-465c-9ffc-e81f98764cb8" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/7cc0e504-9ca1-4625-ae15-a5f66df10b47" />
+<img width="1922" height="914" alt="Image" src="https://github.com/user-attachments/assets/a4ba3438-9b25-47fb-9472-23123603fac8" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/746df1e0-d676-4875-ad4e-90d7706791b3" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/94e030e0-d03d-4cdd-91f2-c117d6bcf43e" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/95bf6c08-c5a2-456d-a8c5-b6730b15df0a" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/4ec445c7-3ea9-4779-9a10-d29dc01fe26c" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/ec83d5de-210b-493c-a5ff-223281690233" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/e601775e-4540-4aa5-b23b-5cbcff17d7ce" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/a33a6c67-7e15-4b33-a005-130e4599fef8" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/96937a62-bd72-4c3e-9fd6-48c66db7f87b" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/843d6f95-e548-45f7-9154-30d3c7997853" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/eb0c8762-bce2-4049-b19b-b1f0850143d0" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/f2bb45ea-5089-46b0-bf79-11c9a8cb8659" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/c9d62f38-801e-4309-85d8-0d7ace9fef1f" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/34a76349-3b2b-43e7-ba5a-5bf10093cc80" />
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/cc646bcd-40cf-4838-8e6d-f5a36c352842" />
