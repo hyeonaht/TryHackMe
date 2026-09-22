@@ -1,6 +1,6 @@
 # Cheese CTF
 <img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/b486f892-a551-478f-9206-d82ee6107314" />
-<img width="1922" height="914" alt="Image" src="https://github.com/user-attachments/assets/f6ea5482-933c-4df3-b6e9-4d53a4de3992" />
+<img width="1922" height="914" alt="Image" src="https://github.com/user-attachments/assets/450ed6b2-8248-4e1b-bfd3-7e98d7a271c2" />
 <img width="1922" height="914" alt="Image" src="https://github.com/user-attachments/assets/14c97076-6fed-4ca8-a6a9-03656ce397a3" />
 <img width="1922" height="914" alt="Image" src="https://github.com/user-attachments/assets/79b5389a-e789-42f9-8610-7a11bd8541c2" />
 <img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/310f608e-e0e6-4bdf-8c48-b64fef6beb28" />
