@@ -1,6 +1,7 @@
 # All in One
 <img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/120019de-1a4e-41da-b0c4-15fac0a04bf8" />
 <img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/75c8550a-cd63-4ca9-8c1f-d0091bae5bd2" />
+<img width="1922" height="914" alt="Image" src="https://github.com/user-attachments/assets/c8ebc08c-4a31-4d75-86b6-f82d0e24df58" />
 <img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/a1d6042f-7fbb-4204-a686-8cce4a42e844" />
 <img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/66eec2e0-f784-4dab-933f-16db5903cf1b" />
 <img width="1922" height="914" alt="Image" src="https://github.com/user-attachments/assets/4f784e54-634f-479a-aa03-1fa763600cf3" />
