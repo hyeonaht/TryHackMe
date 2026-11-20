@@ -1,10 +1,12 @@
 # Jacob the Boss
 <img width="1920" height="888" alt="Screenshot_2026-11-19_20-29-34" src="https://github.com/user-attachments/assets/85816dc6-9fc1-4f7f-b0fa-4995430afe13" />
-<img width="1922" height="890" alt="Screenshot_2026-11-19_20-45-42" src="https://github.com/user-attachments/assets/9245ccf2-3be4-40e6-86c9-445cff667263" />
-<img width="1922" height="890" alt="Screenshot_2026-11-19_20-53-47" src="https://github.com/user-attachments/assets/8c1ead84-7530-4425-91b6-d29b32738082" />
+<img width="1922" height="890" alt="Screenshot_2026-11-20_06-10-53" src="https://github.com/user-attachments/assets/67224770-fa5a-4343-84c1-78ba6c377f1e" />
+<img width="1922" height="890" alt="Screenshot_2026-11-20_06-10-59" src="https://github.com/user-attachments/assets/1996b515-4159-4fc0-baa5-92b3627dbd76" />
 <img width="1920" height="888" alt="Screenshot_2026-11-19_21-00-13" src="https://github.com/user-attachments/assets/80d88b53-5d2a-4e07-b2e4-08dddc85be07" />
 <img width="1920" height="888" alt="Screenshot_2026-11-19_21-04-16" src="https://github.com/user-attachments/assets/09337dca-ee8a-4919-9c44-dafe8b3d5a10" />
-<img width="1920" height="888" alt="Screenshot_2026-11-19_21-10-10" src="https://github.com/user-attachments/assets/c28bf08c-f3a7-4359-a66d-c546767c1d46" />
+<img width="1920" height="888" alt="Screenshot_2026-11-20_06-15-31" src="https://github.com/user-attachments/assets/c6f0ef01-a60e-4a40-aa7c-926cb5040e5b" />
+<img width="1920" height="888" alt="Screenshot_2026-11-20_06-25-21" src="https://github.com/user-attachments/assets/b782b566-f49f-4224-a462-b7fa166c871d" />
+<img width="1920" height="888" alt="Screenshot_2026-11-20_06-25-48" src="https://github.com/user-attachments/assets/c06a506f-fa6f-4f96-85e0-f660ea7115eb" />
 <img width="1920" height="888" alt="Screenshot_2026-11-19_21-10-14" src="https://github.com/user-attachments/assets/c09ff192-5b7c-4069-b9ed-544670a19455" />
 <img width="1920" height="888" alt="Screenshot_2026-11-19_21-10-23" src="https://github.com/user-attachments/assets/0da5297a-85a5-447f-8278-326514fd9421" />
 <img width="1920" height="888" alt="Screenshot_2026-11-19_21-11-12" src="https://github.com/user-attachments/assets/a22422bc-3f54-4ae4-b7f4-4b032dd88a0f" />
